@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">身体质量指数</string>
+    <string name="height">身高，厘米</string>
+    <string name="weight">体重，公斤</string>
+    <string name="sex">性别，男女</string>
+    <string name="btn_cal">开始计算</string>
+    <string name="btn_share">分享结果</string>
+    <string name="result">您的身体质量指数为：</string>
+    <string name="share_title">身体质量报告</string>
+    <string name="share_result">我刚刚使用@twlkyao 的BMI软件的测试结果是：</string>
+    <string name="share_suggest">它给出的建议是：</string>
+    <string name="share_invite">你也来试试吧！</string>
+    <string name="exit">退出</string>
+    <string name="about">关于</string>
+    <string name="about_msg">	作者:twlkyao
+        						\nQQ:1057126256
+        						\n邮箱:twlkyao@gmail.com
+        						\n新浪微博:http://weibo.com/105712625
+        						\n版本号:V1.04</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="advice_light_female">美女，有点瘦了，twlkyao建议您多吃点哦!</string>
+    <string name="advice_ok_female">美女，体型很完美哦，twlkyao好羡慕！</string>
+    <string name="advice_heavy_female">美女，有点重了，twlkyao建议您瘦身哦!</string>
+    <string name="advice_fat_female">美女，实在是有点重了!</string>
+    <string name="advice_light_male">帅哥，有点瘦了，twlkyao建议您多吃点哦!</string>
+    <string name="advice_ok_male">帅哥，体型很完美哦，twlkyao好羡慕！</string>
+    <string name="advice_heavy_male">帅哥，很彪悍呀，twlkyao好怕呀!</string>
+    <string name="advice_fat_male">帅哥，实在是太彪悍了!</string>
+
+</resources>
